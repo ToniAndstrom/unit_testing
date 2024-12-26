@@ -1,0 +1,79 @@
+[
+    {
+      "number": 1,
+      "computerName": "Xunil 4.7",
+      "processor": "X-Force",
+      "price": 25,
+      "diskspace": "1 TB",
+      "colors": [
+        "blue",
+        "orange",
+        "yellow"
+      ],
+      "info": {
+        "notes": "high quality",
+        "model": "chrome",
+        "consumption": "D"
+      }
+    },
+    {
+      "number": 2,
+      "computerName": "GameDelux",
+      "processor": "X-Force",
+      "price": 10,
+      "diskspace": "10 GB",
+      "colors": [
+        "red",
+        "white",
+        "green"
+      ],
+      "info": {
+        "notes": "high quality",
+        "model": "XXL",
+        "consumption": "A+"
+      }
+    },
+    {
+      "number": 3,
+      "processor": "Selenium II",
+      "price": 200,
+      "diskspace": "1 TB",
+      "colors": [
+        "green",
+        "blue",
+        "orange"
+      ],
+      "info": {
+        "notes": "high quality",
+        "model": "VIP",
+        "consumption": "C"
+      }
+    },
+    {
+      "number": 4,
+      "processor": "Brain 456",
+      "price": 10,
+      "diskspace": "2 TB",
+      "colors": [
+        "white",
+        "orange",
+        "yellow"
+      ],
+      "info": {
+        "notes": "-",
+        "model": "XXL",
+        "consumption": "E"
+      }
+    },
+    {
+      "number": 5,
+      "processor": "MotorOlè",
+      "price": 25,
+      "diskspace": "500 GB",
+      "colors": [
+        "green",
+        "black",
+        "white"
+      ]
+    }
+  ]
